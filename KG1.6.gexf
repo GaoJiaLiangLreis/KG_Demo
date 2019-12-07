@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-06-10">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="modularity_class" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="0" label="South Luogu Lane">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="33.569767"></viz:size>
+        <viz:position x="490.60873" y="-519.01105"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="1" label="免费">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="20.77907"></viz:size>
+        <viz:position x="761.079" y="-201.76938"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="2" label="中国">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="22.05814"></viz:size>
+        <viz:position x="261.32944" y="-182.0728"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="3" label="地理">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="20.77907"></viz:size>
+        <viz:position x="702.7371" y="-243.09137"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="4" label="北京">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="-105.70351" y="-322.03143"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="5" label="人很多">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="23.33721"></viz:size>
+        <viz:position x="143.11357" y="-75.08372"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="6" label="有小吃">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="22.05814"></viz:size>
+        <viz:position x="613.1556" y="-316.1538"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="7" label="地点">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="20.77907"></viz:size>
+        <viz:position x="787.1303" y="-269.80127"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="8" label="交通方便">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="21.418604"></viz:size>
+        <viz:position x="218.41118" y="-222.35382"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="9" label="四季皆宜">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="513.63824" y="-944.4566"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="10" label="全天">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="21.418604"></viz:size>
+        <viz:position x="672.9024" y="-463.35452"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="11" label="值得去">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="23.33721"></viz:size>
+        <viz:position x="155.56677" y="-47.217545"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="12" label="自然资源">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="627.487" y="-918.22046"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="13" label="2-3小时">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="615.3363" y="-125.06779"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="14" label="适合情侣">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="312.2163" y="-782.2702"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="15" label="四季各有特色">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="727.5511" y="-811.16943"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="16" label="胡同">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="779.71606" y="-931.0872"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="17" label="北京市">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="583.87213" y="-1035.6665"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="18" label="巷子">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="517.4181" y="-132.94907"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="19" label="小店">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="473.73627" y="-857.2161"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="20" label="时尚">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="832.5845" y="-804.68396"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="21" label="奶酪">
+        <attvalues>
+          <attvalue for="modularity_class" value="South Luogu Lane"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="709.0674" y="-1014.4337"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="22" label="Peking Univ">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="42.523254"></viz:size>
+        <viz:position x="-646.5221" y="-54.82532"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="23" label="文化底蕴">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="-987.79095" y="207.24487"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="24" label="校园">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="-640.1943" y="292.15903"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="25" label="学校">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="-719.234" y="318.81955"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="26" label="大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="-566.38885" y="342.93484"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="27" label="公立大学">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="-767.6592" y="241.94489"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="28" label="中华人民共和国教育部">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="-672.958" y="417.73502"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="29" label="中国高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="-892.0346" y="206.06372"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="30" label="公办高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="-857.90546" y="367.30667"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="31" label="教育部隶属高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="-581.5957" y="421.32773"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="32" label="北京高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-937.23944" y="-147.1029"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="33" label="本科高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="-837.93304" y="275.07864"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="34" label="综合">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1152.0957" y="-286.72083"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="35" label="211高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="-768.42535" y="390.79245"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="36" label="综合类高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="-1042.9971" y="269.5994"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="37" label="学府">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1088.2686" y="-382.83368"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="38" label="211工程（1995年入选）">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-655.0846" y="-331.40012"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="39" label="985工程（1998年入选）">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-535.76447" y="-124.71471"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="40" label="世界一流大学和一流学科（2017年入选）">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-924.09546" y="-499.47626"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="41" label="高等学校创新能力提升计划（2013年入选）">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-788.6984" y="-400.30917"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="42" label="研究生院高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="-943.33124" y="280.25174"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="43" label="985高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="-959.8861" y="352.86993"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="44" label="朱自清">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-816.0506" y="-516.39813"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="45" label="1898年">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-897.94507" y="-366.72693"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="46" label="北大">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1074.903" y="-90.026115"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="47" label="未名湖">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1138.0156" y="-190.9501"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="48" label="博雅">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-677.46564" y="-464.9588"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="49" label="5月4日">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-920.052" y="-261.248"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="50" label="基础学科拔尖学生培养试验计划（2009年入选）">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1013.78394" y="-448.70612"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="51" label="学术学位授权一级学科49个">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1044.1445" y="-273.99655"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="52" label="一级学科18个">
+        <attvalues>
+          <attvalue for="modularity_class" value="Peking Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1176.4979" y="-76.05163"></viz:position>
+        <viz:color r="226" g="139" b="255"></viz:color>
+      </node>
+      <node id="53" label="Xiamen Univ">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="47.0"></viz:size>
+        <viz:position x="-829.12396" y="641.76"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="54" label="综合类">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1257.7747" y="812.5863"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="55" label="厦门">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="-336.52103" y="-56.446114"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="56" label="有餐厅">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1322.1786" y="936.4663"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="57" label="隧道">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1371.7573" y="840.4865"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="58" label="专科高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-845.4887" y="1003.99115"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="59" label="专业学位授权类别1个">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-552.88837" y="986.33923"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="60" label="厦大">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1164.3181" y="1135.168"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="61" label="211工程（1997年）">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1260.5923" y="1037.0457"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="62" label="陈嘉庚">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1022.26666" y="1189.6184"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="63" label="芙蓉">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1053.001" y="960.60645"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="64" label="学术学位授权一级学科33个">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-912.24164" y="1211.8099"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="65" label="福建高校">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1052.9586" y="1097.9725"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="66" label="全国毕业生就业典型经验高校（2014年）">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-660.48865" y="1144.0862"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="67" label="中午12点开放">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1304.3232" y="545.6949"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="68" label="卢嘉锡">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1251.3636" y="660.1206"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="69" label="世界一流大学建设高校（2017年）">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-749.70044" y="1021.7319"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="70" label="张存浩">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1198.1837" y="922.55676"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="71" label="985工程（2001年）">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-868.1321" y="1132.9316"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="72" label="2011计划（2014年）">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1362.9814" y="738.615"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="73" label="一级学科5个">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-636.71216" y="1045.3335"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="74" label="Xiamen University">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1375.6868" y="636.5599"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="75" label="陈景润">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1158.3932" y="759.16815"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="76" label="谢希德">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1153.9856" y="1042.1779"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="77" label="张高丽">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-954.5012" y="960.3622"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="78" label="10384">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-1068.9532" y="863.1253"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="79" label="学术学位授权二级学科3个（不含一级学科覆盖）">
+        <attvalues>
+          <attvalue for="modularity_class" value="Xiamen Univ"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-774.2586" y="1186.528"></viz:position>
+        <viz:color r="105" g="196" b="4"></viz:color>
+      </node>
+      <node id="80" label="Jinli">
+        <attvalues>
+          <attvalue for="modularity_class" value="Jinli"></attvalue>
+        </attvalues>
+        <viz:size value="32.930233"></viz:size>
+        <viz:position x="627.3774" y="151.99393"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="81" label="成都">
+        <attvalues>
+          <attvalue for="modularity_class" value="Jinli"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="836.04785" y="632.11707"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="82" label="夜景很美">
+        <attvalues>
+          <attvalue for="modularity_class" value="Jinli"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="938.96436" y="452.10748"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="83" label="四川省成都市">
+        <attvalues>
+          <attvalue for="modularity_class" value="Jinli"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="633.1138" y="498.49844"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="84" label="酒吧">
+        <attvalues>
+          <attvalue for="modularity_class" value="Jinli"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="967.8272" y="259.56174"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="85" label="全天开放">
+        <attvalues>
+          <attvalue for="modularity_class" value="Jinli"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="800.94037" y="445.19217"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="86" label="亚热带季风性湿润气候">
+        <attvalues>
+          <attvalue for="modularity_class" value="Jinli"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="694.46466" y="640.0767"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="87" label="武侯祠">
+        <attvalues>
+          <attvalue for="modularity_class" value="Jinli"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="575.39954" y="594.65656"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="88" label="小吃">
+        <attvalues>
+          <attvalue for="modularity_class" value="Jinli"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="924.4113" y="-106.71935"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="89" label="宽窄">
+        <attvalues>
+          <attvalue for="modularity_class" value="Jinli"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="762.0781" y="554.5497"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="90" label="街里">
+        <attvalues>
+          <attvalue for="modularity_class" value="Jinli"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="926.45105" y="563.0874"></viz:position>
+        <viz:color r="0" g="175" b="135"></viz:color>
+      </node>
+      <node id="91" label="Lijiang Ancient Town">
+        <attvalues>
+          <attvalue for="modularity_class" value="Lijiang Ancient Town"></attvalue>
+        </attvalues>
+        <viz:size value="33.569767"></viz:size>
+        <viz:position x="1027.4886" y="23.794497"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="92" label="景观景点">
+        <attvalues>
+          <attvalue for="modularity_class" value="Lijiang Ancient Town"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1299.705" y="332.10147"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="93" label="历史悠久">
+        <attvalues>
+          <attvalue for="modularity_class" value="Lijiang Ancient Town"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="1195.3325" y="-269.83447"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="94" label="古城">
+        <attvalues>
+          <attvalue for="modularity_class" value="Lijiang Ancient Town"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1393.0231" y="110.85318"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="95" label="古镇">
+        <attvalues>
+          <attvalue for="modularity_class" value="Lijiang Ancient Town"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1520.8157" y="78.88375"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="96" label="丽江">
+        <attvalues>
+          <attvalue for="modularity_class" value="Lijiang Ancient Town"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1470.4435" y="-119.41181"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="97" label="逛一天">
+        <attvalues>
+          <attvalue for="modularity_class" value="Lijiang Ancient Town"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="594.3328" y="-404.61313"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="98" label="云南省丽江市">
+        <attvalues>
+          <attvalue for="modularity_class" value="Lijiang Ancient Town"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1536.208" y="276.52954"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="99" label="客栈">
+        <attvalues>
+          <attvalue for="modularity_class" value="Lijiang Ancient Town"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1373.2378" y="238.85515"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="100" label="AAAAA级">
+        <attvalues>
+          <attvalue for="modularity_class" value="Lijiang Ancient Town"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1499.8441" y="190.6815"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="101" label="全天候">
+        <attvalues>
+          <attvalue for="modularity_class" value="Lijiang Ancient Town"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1563.913" y="-30.666904"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="102" label="大石桥">
+        <attvalues>
+          <attvalue for="modularity_class" value="Lijiang Ancient Town"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1450.0753" y="343.8354"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="103" label="一年四季">
+        <attvalues>
+          <attvalue for="modularity_class" value="Lijiang Ancient Town"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1441.0626" y="-13.054538"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="104" label="1-3天">
+        <attvalues>
+          <attvalue for="modularity_class" value="Lijiang Ancient Town"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1590.927" y="122.30238"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="105" label="木府">
+        <attvalues>
+          <attvalue for="modularity_class" value="Lijiang Ancient Town"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1389.074" y="422.1939"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="106" label="大研">
+        <attvalues>
+          <attvalue for="modularity_class" value="Lijiang Ancient Town"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1268.8816" y="439.18298"></viz:position>
+        <viz:color r="250" g="146" b="0"></viz:color>
+      </node>
+      <node id="107" label="Muslim Street">
+        <attvalues>
+          <attvalue for="modularity_class" value="Muslim Street"></attvalue>
+        </attvalues>
+        <viz:size value="33.569767"></viz:size>
+        <viz:position x="894.472" y="-476.98712"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="108" label="伊斯兰教">
+        <attvalues>
+          <attvalue for="modularity_class" value="Muslim Street"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1360.3778" y="-750.04767"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="109" label="西安">
+        <attvalues>
+          <attvalue for="modularity_class" value="Muslim Street"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1322.8798" y="-629.1145"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="110" label="春夏秋">
+        <attvalues>
+          <attvalue for="modularity_class" value="Muslim Street"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1406.7288" y="-509.39383"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="111" label="街道">
+        <attvalues>
+          <attvalue for="modularity_class" value="Muslim Street"></attvalue>
+        </attvalues>
+        <viz:size value="20.139534"></viz:size>
+        <viz:position x="552.18945" y="-710.4726"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="112" label="清真寺">
+        <attvalues>
+          <attvalue for="modularity_class" value="Muslim Street"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1225.8593" y="-898.40576"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="113" label="羊肉">
+        <attvalues>
+          <attvalue for="modularity_class" value="Muslim Street"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1421.3734" y="-652.70197"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="114" label="5小时">
+        <attvalues>
+          <attvalue for="modularity_class" value="Muslim Street"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1119.147" y="-918.5037"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="115" label="肉夹馍">
+        <attvalues>
+          <attvalue for="modularity_class" value="Muslim Street"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1298.7434" y="-518.18414"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="116" label="泡馍">
+        <attvalues>
+          <attvalue for="modularity_class" value="Muslim Street"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1298.9738" y="-821.91473"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="117" label="西羊市">
+        <attvalues>
+          <attvalue for="modularity_class" value="Muslim Street"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1224.6512" y="-702.01807"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="118" label="凉皮">
+        <attvalues>
+          <attvalue for="modularity_class" value="Muslim Street"></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="1142.4417" y="-794.0496"></viz:position>
+        <viz:color r="255" g="93" b="133"></viz:color>
+      </node>
+      <node id="119" label="Gulangyu Island ">
+        <attvalues>
+          <attvalue for="modularity_class" value="Gulangyu Island "></attvalue>
+        </attvalues>
+        <viz:size value="34.209305"></viz:size>
+        <viz:position x="140.76015" y="-761.7658"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="120" label="码头">
+        <attvalues>
+          <attvalue for="modularity_class" value="Gulangyu Island "></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-212.42647" y="-978.54144"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="121" label="岛上">
+        <attvalues>
+          <attvalue for="modularity_class" value="Gulangyu Island "></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="10.874321" y="-1187.7931"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="122" label="1-2天">
+        <attvalues>
+          <attvalue for="modularity_class" value="Gulangyu Island "></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="206.93541" y="-1312.9354"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="123" label="小岛">
+        <attvalues>
+          <attvalue for="modularity_class" value="Gulangyu Island "></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-82.91434" y="-999.5491"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="124" label="亚热带海洋性季风气候">
+        <attvalues>
+          <attvalue for="modularity_class" value="Gulangyu Island "></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="57.936344" y="-1083.7203"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="125" label="船票">
+        <attvalues>
+          <attvalue for="modularity_class" value="Gulangyu Island "></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-109.59677" y="-1117.0958"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="126" label="日光岩">
+        <attvalues>
+          <attvalue for="modularity_class" value="Gulangyu Island "></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-125.38836" y="-1227.8549"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="127" label="厦门市">
+        <attvalues>
+          <attvalue for="modularity_class" value="Gulangyu Island "></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="146.16335" y="-1226.5791"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="128" label="四季适宜">
+        <attvalues>
+          <attvalue for="modularity_class" value="Gulangyu Island "></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="311.96246" y="-1237.0953"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="129" label="安静">
+        <attvalues>
+          <attvalue for="modularity_class" value="Gulangyu Island "></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="224.66187" y="-1146.663"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="130" label="厦门市思明区">
+        <attvalues>
+          <attvalue for="modularity_class" value="Gulangyu Island "></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-36.855064" y="-1283.3661"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="131" label="约2万人">
+        <attvalues>
+          <attvalue for="modularity_class" value="Gulangyu Island "></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="-220.43636" y="-1109.0698"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+      <node id="132" label="闽南语（厦门话）-闽台片">
+        <attvalues>
+          <attvalue for="modularity_class" value="Gulangyu Island "></attvalue>
+        </attvalues>
+        <viz:size value="19.5"></viz:size>
+        <viz:position x="76.95173" y="-1310.08"></viz:position>
+        <viz:color r="128" g="107" b="104"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" label="门票价格"></edge>
+      <edge id="1" source="0" target="2" label="所属国家"></edge>
+      <edge id="2" source="0" target="3" label="CATEGORY_ZH"></edge>
+      <edge id="3" source="0" target="4" label="destination"></edge>
+      <edge id="4" source="0" target="5" label="tag_comments"></edge>
+      <edge id="5" source="0" target="6" label="tag_comments"></edge>
+      <edge id="6" source="0" target="7" label="CATEGORY_ZH"></edge>
+      <edge id="7" source="0" target="8" label="tag_comments"></edge>
+      <edge id="8" source="0" target="9" label="最佳旅游季节"></edge>
+      <edge id="9" source="0" target="10" label="开放时间"></edge>
+      <edge id="10" source="0" target="11" label="tag_comments"></edge>
+      <edge id="11" source="0" target="12" label="CATEGORY_ZH"></edge>
+      <edge id="12" source="0" target="13" label="建议游玩时长"></edge>
+      <edge id="14" source="0" target="14" label="tag_comments"></edge>
+      <edge id="15" source="0" target="15" label="适宜游玩季节"></edge>
+      <edge id="16" source="0" target="16" label="keyword_comments"></edge>
+      <edge id="18" source="0" target="17" label="所属城市"></edge>
+      <edge id="19" source="0" target="18" label="keyword_comments"></edge>
+      <edge id="20" source="0" target="19" label="keyword_comments"></edge>
+      <edge id="21" source="0" target="20" label="keyword_summary"></edge>
+      <edge id="22" source="0" target="0" label="中文名称"></edge>
+      <edge id="23" source="0" target="21" label="keyword_comments"></edge>
+      <edge id="24" source="22" target="2" label="keyword_summary"></edge>
+      <edge id="25" source="22" target="23" label="tag_comments"></edge>
+      <edge id="26" source="22" target="4" label="destination"></edge>
+      <edge id="27" source="22" target="5" label="tag_comments"></edge>
+      <edge id="28" source="22" target="8" label="tag_comments"></edge>
+      <edge id="29" source="22" target="11" label="tag_comments"></edge>
+      <edge id="30" source="22" target="24" label="keyword_comments"></edge>
+      <edge id="32" source="22" target="25" label="CATEGORY_ZH"></edge>
+      <edge id="33" source="22" target="26" label="CATEGORY_ZH"></edge>
+      <edge id="34" source="22" target="27" label="类别"></edge>
+      <edge id="35" source="22" target="28" label="主管部门"></edge>
+      <edge id="36" source="22" target="29" label="CATEGORY_ZH"></edge>
+      <edge id="37" source="22" target="30" label="CATEGORY_ZH"></edge>
+      <edge id="38" source="22" target="31" label="CATEGORY_ZH"></edge>
+      <edge id="39" source="22" target="32" label="CATEGORY_ZH"></edge>
+      <edge id="40" source="22" target="33" label="CATEGORY_ZH"></edge>
+      <edge id="41" source="22" target="34" label="类型"></edge>
+      <edge id="42" source="22" target="35" label="CATEGORY_ZH"></edge>
+      <edge id="43" source="22" target="36" label="CATEGORY_ZH"></edge>
+      <edge id="44" source="22" target="37" label="keyword_comments"></edge>
+      <edge id="45" source="22" target="38" label="属性"></edge>
+      <edge id="46" source="22" target="39" label="属性"></edge>
+      <edge id="47" source="22" target="40" label="属性"></edge>
+      <edge id="48" source="22" target="41" label="属性"></edge>
+      <edge id="49" source="22" target="42" label="CATEGORY_ZH"></edge>
+      <edge id="50" source="22" target="43" label="CATEGORY_ZH"></edge>
+      <edge id="51" source="22" target="44" label="知名校友"></edge>
+      <edge id="52" source="22" target="45" label="创办时间"></edge>
+      <edge id="53" source="22" target="46" label="简称"></edge>
+      <edge id="55" source="22" target="47" label="keyword_comments"></edge>
+      <edge id="56" source="22" target="48" label="keyword_comments"></edge>
+      <edge id="57" source="22" target="22" label="中文名"></edge>
+      <edge id="58" source="22" target="49" label="校庆日"></edge>
+      <edge id="59" source="22" target="50" label="属性"></edge>
+      <edge id="60" source="22" target="51" label="博士点"></edge>
+      <edge id="61" source="22" target="52" label="国家重点学科"></edge>
+      <edge id="62" source="53" target="54" label="类型"></edge>
+      <edge id="63" source="53" target="23" label="tag_comments"></edge>
+      <edge id="64" source="53" target="5" label="tag_comments"></edge>
+      <edge id="65" source="53" target="11" label="tag_comments"></edge>
+      <edge id="66" source="53" target="55" label="destination"></edge>
+      <edge id="67" source="53" target="24" label="keyword_comments"></edge>
+      <edge id="69" source="53" target="56" label="tag_comments"></edge>
+      <edge id="70" source="53" target="25" label="CATEGORY_ZH"></edge>
+      <edge id="71" source="53" target="57" label="keyword_comments"></edge>
+      <edge id="72" source="53" target="26" label="keyword_comments"></edge>
+      <edge id="73" source="53" target="27" label="类别"></edge>
+      <edge id="74" source="53" target="28" label="主管部门"></edge>
+      <edge id="75" source="53" target="29" label="CATEGORY_ZH"></edge>
+      <edge id="76" source="53" target="30" label="CATEGORY_ZH"></edge>
+      <edge id="77" source="53" target="31" label="CATEGORY_ZH"></edge>
+      <edge id="78" source="53" target="33" label="CATEGORY_ZH"></edge>
+      <edge id="79" source="53" target="58" label="CATEGORY_ZH"></edge>
+      <edge id="80" source="53" target="59" label="博士点"></edge>
+      <edge id="81" source="53" target="35" label="CATEGORY_ZH"></edge>
+      <edge id="82" source="53" target="36" label="CATEGORY_ZH"></edge>
+      <edge id="83" source="53" target="42" label="CATEGORY_ZH"></edge>
+      <edge id="84" source="53" target="43" label="CATEGORY_ZH"></edge>
+      <edge id="85" source="53" target="60" label="keyword_comments"></edge>
+      <edge id="86" source="53" target="61" label="属性"></edge>
+      <edge id="87" source="53" target="62" label="创办人"></edge>
+      <edge id="88" source="53" target="53" label="中文名"></edge>
+      <edge id="89" source="53" target="63" label="keyword_comments"></edge>
+      <edge id="90" source="53" target="64" label="博士点"></edge>
+      <edge id="91" source="53" target="65" label="CATEGORY_ZH"></edge>
+      <edge id="92" source="53" target="66" label="主要奖项"></edge>
+      <edge id="93" source="53" target="67" label="tag_comments"></edge>
+      <edge id="94" source="53" target="68" label="知名校友"></edge>
+      <edge id="95" source="53" target="69" label="属性"></edge>
+      <edge id="96" source="53" target="70" label="知名校友"></edge>
+      <edge id="97" source="53" target="71" label="属性"></edge>
+      <edge id="98" source="53" target="72" label="属性"></edge>
+      <edge id="99" source="53" target="73" label="国家重点学科"></edge>
+      <edge id="100" source="53" target="74" label="外文名称"></edge>
+      <edge id="101" source="53" target="75" label="知名校友"></edge>
+      <edge id="102" source="53" target="76" label="知名校友"></edge>
+      <edge id="103" source="53" target="77" label="知名校友"></edge>
+      <edge id="104" source="53" target="78" label="院校代码"></edge>
+      <edge id="105" source="53" target="79" label="博士点"></edge>
+      <edge id="107" source="80" target="1" label="门票价格"></edge>
+      <edge id="108" source="80" target="2" label="所属国家"></edge>
+      <edge id="109" source="80" target="3" label="CATEGORY_ZH"></edge>
+      <edge id="110" source="80" target="5" label="tag_comments"></edge>
+      <edge id="111" source="80" target="6" label="tag_comments"></edge>
+      <edge id="112" source="80" target="7" label="CATEGORY_ZH"></edge>
+      <edge id="113" source="80" target="8" label="tag_comments"></edge>
+      <edge id="114" source="80" target="81" label="destination"></edge>
+      <edge id="115" source="80" target="11" label="tag_comments"></edge>
+      <edge id="116" source="80" target="82" label="tag_comments"></edge>
+      <edge id="117" source="80" target="83" label="所属城市"></edge>
+      <edge id="118" source="80" target="84" label="keyword_comments"></edge>
+      <edge id="119" source="80" target="13" label="建议游玩时长"></edge>
+      <edge id="120" source="80" target="85" label="开放时间"></edge>
+      <edge id="121" source="80" target="86" label="气候类型"></edge>
+      <edge id="122" source="80" target="18" label="keyword_comments"></edge>
+      <edge id="123" source="80" target="87" label="keyword_comments"></edge>
+      <edge id="124" source="80" target="88" label="keyword_comments"></edge>
+      <edge id="125" source="80" target="89" label="keyword_comments"></edge>
+      <edge id="126" source="80" target="80" label="中文名"></edge>
+      <edge id="127" source="80" target="90" label="keyword_summary"></edge>
+      <edge id="128" source="91" target="2" label="所属国家"></edge>
+      <edge id="129" source="91" target="5" label="tag_comments"></edge>
+      <edge id="130" source="91" target="6" label="tag_comments"></edge>
+      <edge id="131" source="91" target="92" label="CATEGORY_ZH"></edge>
+      <edge id="132" source="91" target="93" label="tag_comments"></edge>
+      <edge id="133" source="91" target="10" label="开放时间"></edge>
+      <edge id="134" source="91" target="11" label="tag_comments"></edge>
+      <edge id="135" source="91" target="94" label="keyword_comments"></edge>
+      <edge id="137" source="91" target="95" label="keyword_comments"></edge>
+      <edge id="138" source="91" target="96" label="destination"></edge>
+      <edge id="139" source="91" target="84" label="keyword_comments"></edge>
+      <edge id="140" source="91" target="97" label="tag_comments"></edge>
+      <edge id="141" source="91" target="98" label="所属城市"></edge>
+      <edge id="142" source="91" target="99" label="keyword_comments"></edge>
+      <edge id="143" source="91" target="100" label="景点级别"></edge>
+      <edge id="144" source="91" target="101" label="开放时间"></edge>
+      <edge id="145" source="91" target="102" label="著名景点"></edge>
+      <edge id="146" source="91" target="103" label="适宜游玩季节"></edge>
+      <edge id="147" source="91" target="104" label="建议游玩时长"></edge>
+      <edge id="148" source="91" target="91" label="中文名"></edge>
+      <edge id="149" source="91" target="105" label="著名景点"></edge>
+      <edge id="150" source="91" target="106" label="keyword_comments"></edge>
+      <edge id="151" source="107" target="1" label="门票价格"></edge>
+      <edge id="152" source="107" target="3" label="CATEGORY_ZH"></edge>
+      <edge id="153" source="107" target="5" label="tag_comments"></edge>
+      <edge id="154" source="107" target="6" label="tag_comments"></edge>
+      <edge id="155" source="107" target="7" label="CATEGORY_ZH"></edge>
+      <edge id="156" source="107" target="8" label="tag_comments"></edge>
+      <edge id="157" source="107" target="108" label="宗教"></edge>
+      <edge id="158" source="107" target="93" label="tag_comments"></edge>
+      <edge id="159" source="107" target="10" label="开放时间"></edge>
+      <edge id="160" source="107" target="11" label="tag_comments"></edge>
+      <edge id="161" source="107" target="109" label="destination"></edge>
+      <edge id="162" source="107" target="107" label="中文名"></edge>
+      <edge id="163" source="107" target="110" label="适宜游玩季节"></edge>
+      <edge id="164" source="107" target="111" label="keyword_summary"></edge>
+      <edge id="165" source="107" target="88" label="keyword_comments"></edge>
+      <edge id="166" source="107" target="112" label="景点"></edge>
+      <edge id="167" source="107" target="113" label="keyword_comments"></edge>
+      <edge id="168" source="107" target="114" label="建议游玩时长"></edge>
+      <edge id="169" source="107" target="115" label="keyword_comments"></edge>
+      <edge id="170" source="107" target="116" label="keyword_comments"></edge>
+      <edge id="171" source="107" target="117" label="keyword_comments"></edge>
+      <edge id="172" source="107" target="118" label="keyword_summary"></edge>
+      <edge id="173" source="119" target="2" label="所属国家"></edge>
+      <edge id="174" source="119" target="5" label="tag_comments"></edge>
+      <edge id="175" source="119" target="6" label="tag_comments"></edge>
+      <edge id="176" source="119" target="10" label="开放时间"></edge>
+      <edge id="177" source="119" target="11" label="tag_comments"></edge>
+      <edge id="178" source="119" target="55" label="destination"></edge>
+      <edge id="179" source="119" target="120" label="keyword_comments"></edge>
+      <edge id="180" source="119" target="121" label="keyword_comments"></edge>
+      <edge id="181" source="119" target="119" label="中文名称"></edge>
+      <edge id="182" source="119" target="14" label="tag_comments"></edge>
+      <edge id="183" source="119" target="97" label="tag_comments"></edge>
+      <edge id="184" source="119" target="111" label="行政区类别"></edge>
+      <edge id="185" source="119" target="122" label="建议游玩时长"></edge>
+      <edge id="186" source="119" target="123" label="keyword_comments"></edge>
+      <edge id="187" source="119" target="124" label="气候条件"></edge>
+      <edge id="188" source="119" target="125" label="keyword_comments"></edge>
+      <edge id="189" source="119" target="126" label="keyword_comments"></edge>
+      <edge id="190" source="119" target="127" label="所属城市"></edge>
+      <edge id="191" source="119" target="128" label="适宜游玩季节"></edge>
+      <edge id="192" source="119" target="129" label="keyword_summary"></edge>
+      <edge id="193" source="119" target="130" label="所属地区"></edge>
+      <edge id="194" source="119" target="131" label="人口"></edge>
+      <edge id="195" source="119" target="132" label="方言"></edge>
+    </edges>
+  </graph>
+</gexf>
