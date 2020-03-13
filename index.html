@@ -20,7 +20,7 @@
 
     var myChart = echarts.init(document.getElementById('main'));
     myChart.showLoading();
-    $.get('./KG1.6.gexf', function (xml) {
+    $.get('./KG1.5.gexf', function (xml) {
         myChart.hideLoading();
         var graph = echarts.dataTool.gexf.parse(xml);
         var categories = {};
